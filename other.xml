@@ -1,0 +1,116 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.4/bin/python3" value="false" />
+        <entry key="$USER_HOME$/PyQtEnv/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/instabot/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda/bin/python3" value="true" />
+        <entry key="$USER_HOME$/anki/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.0/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.0/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/bin/python3" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
+        <entry key="/usr/local/opt/python3/Frameworks/Python.framework/Versions/3.5/bin/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.4/bin/python3" value="false" />
+        <entry key="$USER_HOME$/PyQtEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/instabot/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda/bin/python3" value="true" />
+        <entry key="$USER_HOME$/anki/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.0/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="true" />
+        <entry key="/usr/local/Cellar/python3/3.5.0/bin/python3.5" value="true" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="true" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/bin/python3" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
+        <entry key="/usr/local/opt/python3/Frameworks/Python.framework/Versions/3.5/bin/python3" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.4/bin/python3" value="false" />
+        <entry key="$USER_HOME$/PyQtEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/instabot/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda/bin/python3" value="false" />
+        <entry key="$USER_HOME$/anki/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.0/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.0/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/bin/python3" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
+        <entry key="/usr/local/opt/python3/Frameworks/Python.framework/Versions/3.5/bin/python3" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="PythonDocumentationMap">
+    <option name="entries">
+      <list>
+        <Entry>
+          <option name="prefix" value="PyQt4" />
+          <option name="urlPattern" value="http://www.riverbankcomputing.co.uk/static/Docs/PyQt4/html/{class.name.lower}.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="PySide" />
+          <option name="urlPattern" value="http://pyside.github.io/docs/pyside/{module.name.slashes}/{class.name}.html#{module.name}.{element.qname}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="gtk" />
+          <option name="urlPattern" value="http://library.gnome.org/devel/pygtk/stable/class-gtk{class.name.lower}.html#method-gtk{class.name.lower}--{function.name.dashes}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="wx" />
+          <option name="urlPattern" value="http://www.wxpython.org/docs/api/{module.name}.{class.name}-class.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="numpy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/numpy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="scipy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/scipy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="kivy" />
+          <option name="urlPattern" value="http://kivy.org/docs/api-{module.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="PyQt5" />
+          <option name="urlPattern" value="https://doc.qt.io/qt-5/{class.name}.html#{function.name}" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+</application>
