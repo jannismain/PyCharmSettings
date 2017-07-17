@@ -1,6 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="3" />
     <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="customTreeIndent" value="4" />
+    <option name="hideFileIcons" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="statusBarTheme" value="false" />
+    <option name="tabsHeight" value="25" />
+    <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
