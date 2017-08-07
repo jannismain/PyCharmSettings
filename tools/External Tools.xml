@@ -3,14 +3,14 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/PycharmProjects/TMViewer/make" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/TMViewer" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/jm/PycharmProjects/TMViewer" />
     </exec>
   </tool>
   <tool name="QtDesigner" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Qt5.5.1/Qt Creator.app/Contents/MacOS/Qt Creator" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PyQtEnv/lib/python3.5" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/jm/PyQtEnv/lib/python3.5" />
     </exec>
   </tool>
 </toolSet>
