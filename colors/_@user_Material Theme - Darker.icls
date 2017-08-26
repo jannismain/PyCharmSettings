@@ -1,23 +1,30 @@
 <scheme name="_@user_Material Theme - Darker" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.75" />
   <metaInfo>
     <property name="created">2017-05-09T13:43:23</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-05-09T13:47:28</property>
+    <property name="modified">2017-08-25T14:23:07</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="BORDER_LINES_COLOR" value="" />
