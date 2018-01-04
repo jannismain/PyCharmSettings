@@ -1,0 +1,124 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Program Files\Anaconda3\python.exe" value="true" />
+        <entry key="U:\fobp-tmviewer\env\bin\python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Program Files\Anaconda3\python.exe" value="true" />
+        <entry key="U:\fobp-tmviewer\env\bin\python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="PythonDocumentationMap">
+    <option name="entries">
+      <list>
+        <Entry>
+          <option name="prefix" value="PyQt4" />
+          <option name="urlPattern" value="http://www.riverbankcomputing.co.uk/static/Docs/PyQt4/html/{class.name.lower}.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="PySide" />
+          <option name="urlPattern" value="http://pyside.github.io/docs/pyside/{module.name.slashes}/{class.name}.html#{module.name}.{element.qname}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="gtk" />
+          <option name="urlPattern" value="http://library.gnome.org/devel/pygtk/stable/class-gtk{class.name.lower}.html#method-gtk{class.name.lower}--{function.name.dashes}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="wx" />
+          <option name="urlPattern" value="http://www.wxpython.org/docs/api/{module.name}.{class.name}-class.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="numpy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/numpy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="scipy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/scipy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="kivy" />
+          <option name="urlPattern" value="http://kivy.org/docs/api-{module.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="PyQt5" />
+          <option name="urlPattern" value="https://doc.qt.io/qt-5/{class.name.lower}.html#{function.name}" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+</application>

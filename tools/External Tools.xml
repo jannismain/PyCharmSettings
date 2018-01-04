@@ -1,16 +1,37 @@
 <toolSet name="External Tools">
   <tool name="make" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/PycharmProjects/TMViewer/make" />
+      <option name="COMMAND" value="C:\Users\mainczjs\PycharmProjects\TMViewer\make" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/jm/PycharmProjects/TMViewer" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/mainczjs/PycharmProjects/TMViewer" />
     </exec>
   </tool>
-  <tool name="QtDesigner" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="PyRCC5" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/Qt5.5.1/Qt Creator.app/Contents/MacOS/Qt Creator" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/jm/PyQtEnv/lib/python3.5" />
+      <option name="COMMAND" value="C:\Users\mainczjs\PycharmProjects\TMViewer\tools\pyrcc\pyrcc5.exe" />
+      <option name="PARAMETERS" value="mdi.qrc -o mdi_rc.py" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/mainczjs/PycharmProjects/TMViewer/src/" />
+    </exec>
+  </tool>
+  <tool name="pyrcc_win" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Anaconda3\Scripts\pyrcc5.exe" />
+      <option name="PARAMETERS" value="&quot;C:\Users\mainczjs\PycharmProjects\TMViewer\src\mdi.qrc&quot; -o &quot;C:\Users\mainczjs\PycharmProjects\TMViewer\src\mdi_rc.py&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/mainczjs/PycharmProjects/TMViewer" />
+    </exec>
+  </tool>
+  <tool name="Search QT Docset in Velocity" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="open" />
+      <option name="PARAMETERS" value="&quot;velocity://$SelectedText$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Open with VSCode" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Microsoft VS Code\Code.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
 </toolSet>
