@@ -1,0 +1,41 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CSS/Change color" />
+    <ignoreAction name="CSS/Convert color to HEX" />
+    <ignoreAction name="CSS/Convert color to HSL/HSLA" />
+    <ignoreAction name="CSS/Convert color to HWB" />
+    <ignoreAction name="CSS/Convert color to RGB/RGBA" />
+    <ignoreAction name="CSS/Convert color to gray" />
+    <ignoreAction name="CSS/Create Selector" />
+    <ignoreAction name="CSS/Expand CSS shorthand property" />
+    <ignoreAction name="CSS/Extract image" />
+    <ignoreAction name="CSS/Extract inline CSS" />
+    <ignoreAction name="CSS/Replace quotes" />
+    <ignoreAction name="CSS/Replace with color name" />
+    <ignoreAction name="CSS/Update background-image size" />
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Django/Wrap with 'trans' tag" />
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+    <ignoreAction name="HTML/Update background-image size" />
+    <ignoreAction name="SQL/Expand column list" />
+    <ignoreAction name="SQL/Inject by Type" />
+    <ignoreAction name="SQL/Qualify identifier" />
+    <ignoreAction name="SQL/Quote identifier" />
+    <ignoreAction name="SQL/Split string literal" />
+    <ignoreAction name="SQL/Unqualify identifier" />
+    <ignoreAction name="SQL/Unquote identifier" />
+    <ignoreAction name="TypeScript/Convert type alias to interface" />
+    <ignoreAction name="TypeScript/Generate reference path comment" />
+    <ignoreAction name="TypeScript/Make 'private'" />
+    <ignoreAction name="TypeScript/Make 'protected'" />
+    <ignoreAction name="TypeScript/Make 'public'" />
+    <ignoreAction name="XML/Add Xsi schema location for external resource" />
+    <ignoreAction name="XML/Choose Color" />
+    <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="XML/Fetch external resource" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="XML/Manually setup external resource" />
+    <ignoreAction name="XML/Reset to default namespace" />
+    <ignoreAction name="XML/Split current tag" />
+  </component>
+</application>
