@@ -1,30 +1,24 @@
 <scheme name="_@user_Material Theme - Darker" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.75" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-05-09T13:43:23</property>
+    <property name="created">2017-01-25T11:24:10</property>
     <property name="ide">Python</property>
-    <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-08-25T14:23:07</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-07-14T14:13:59</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Courier New" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="BORDER_LINES_COLOR" value="" />
@@ -975,6 +969,15 @@
       <value>
         <option name="FOREGROUND" value="c3cee3" />
       </value>
+    </option>
+    <option name="MARKDOWN_STRIKE_THROUGH">
+      <value>
+        <option name="FOREGROUND" value="414141" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_UNORDERED_LIST">
+      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
