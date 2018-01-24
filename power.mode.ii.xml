@@ -2,6 +2,7 @@
   <component name="PowerModeII">
     <option name="customBamImageFolder" value="C:\Users\mainczjs\Documents" />
     <option name="customFlameImageFolder" value="C:\Users\mainczjs\Documents" />
+    <option name="enabled" value="false" />
     <option name="isCaretAction" value="false" />
     <option name="soundsFolder" value="C:\Program Files\Java\jre1.8.0_121\bin" />
     <option name="sparkCount" value="20" />
