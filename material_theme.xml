@@ -12,7 +12,7 @@
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="24" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="accentScrollbars" value="false" />
+    <option name="darkTitleBar" value="true" />
     <option name="useMaterialFont" value="false" />
   </component>
 </application>
