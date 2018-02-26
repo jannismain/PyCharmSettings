@@ -11,4 +11,7 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="120" />
+  </codeStyleSettings>
 </code_scheme>
